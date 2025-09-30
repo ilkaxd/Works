@@ -65,6 +65,33 @@
           <td>01.2025</td>
           <td>В эксплуатации с поддержкой</td>
         </tr>
+        <tr>
+          <td>6</td>
+          <td>PET</td>
+          <td><a href="https://github.com/ilkaxd/VK-ORD" target="_blank">VK-ORD</a></td>
+          <td>Автоматизированная работа с рекламой через VK ОРД</td>
+          <td>Python</td>
+          <td>06.2025</td>
+          <td>В разработке</td>
+        </tr>
+        <tr>
+          <td>7</td>
+          <td>PET</td>
+          <td><a href="https://github.com/ilkaxd/plus_size_shopping_bot" target="_blank">plus_size_shopping_bot</a></td>
+          <td>Бот для телеграм-канала под продажу продукта</td>
+          <td>Python</td>
+          <td>02.2025</td>
+          <td>В эксплуатации с поддержкой</td>
+        </tr>
+        <tr>
+          <td>8</td>
+          <td>PET</td>
+          <td><a href="https://github.com/ilkaxd/PlantControllerPLC" target="_blank">PlantControllerPLC</a></td>
+          <td>Система управления растениями</td>
+          <td>OWEN</td>
+          <td>08.2025</td>
+          <td>В разработке</td>
+        </tr>
       </tbody>
     </table>
   </body>
