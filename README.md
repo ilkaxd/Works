@@ -92,6 +92,15 @@
           <td>08.2025</td>
           <td>В разработке</td>
         </tr>
+        <tr>
+          <td>9</td>
+          <td>PET</td>
+          <td><a href="https://github.com/ilkaxd/plus_size_shopping_bot_max" target="_blank">plus_size_shopping_bot</a></td>
+          <td>Бот для канала в MAX под продажу продукта</td>
+          <td>Python</td>
+          <td>04.2026</td>
+          <td>В эксплуатации с поддержкой</td>
+        </tr>
       </tbody>
     </table>
   </body>
