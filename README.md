@@ -95,7 +95,7 @@
         <tr>
           <td>9</td>
           <td>PET</td>
-          <td><a href="https://github.com/ilkaxd/plus_size_shopping_bot_max" target="_blank">plus_size_shopping_bot</a></td>
+          <td><a href="https://github.com/ilkaxd/plus_size_shopping_bot_max" target="_blank">plus_size_shopping_bot_max</a></td>
           <td>Бот для канала в MAX под продажу продукта</td>
           <td>Python</td>
           <td>04.2026</td>
