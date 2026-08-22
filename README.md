@@ -114,20 +114,25 @@
           <td>В разработке</td>
         </tr>
         <tr>
-          <td rowspan="3">7</td>
-          <td rowspan="3">PET</td>
-          <td rowspan="3"><a href="https://github.com/ilkaxd/plus_size_shopping_bot" target="_blank">plus_size_shopping_bot</a></td>
-          <td rowspan="3">Сервис для работы с ботами</td>
+          <td rowspan="4">7</td>
+          <td rowspan="4">PET</td>
+          <td rowspan="4"><a href="https://github.com/ilkaxd/plus_size_shopping_bot" target="_blank">plus_size_shopping_bot</a></td>
+          <td rowspan="4">Сервис для работы с ботами</td>
           <td><a href="https://github.com/ilkaxd/plus_size_shopping_bot_telegram">plus_size_shopping_bot_telegram</a></td>
           <td>Бот для телеграм по продаже гайдов</td>
           <td>aiogram[Python],FastApi[Python]</td>
-          <td rowspan="3">02.2025</td>
-          <td rowspan="3">В эксплуатации с поддержкой</td>
+          <td rowspan="4">02.2025</td>
+          <td rowspan="4">В эксплуатации с поддержкой</td>
         </tr>
         <tr>
           <td><a href="https://github.com/ilkaxd/plus_size_shopping_bot_max">plus_size_shopping_bot_max</a></td>
           <td>Бот для MAX по продаже гайдов</td>
           <td>maxapi[Python],FastApi[Python]</td>
+        </tr>
+        <tr>
+          <td><a href="https://github.com/ilkaxd/plus_size_shopping_bot_vk">plus_size_shopping_bot_vk</a></td>
+          <td>Бот для VK по продаже гайдов</td>
+          <td>vkbottle[Python],FastApi[Python]</td>
         </tr>
         <tr>
           <td><a href="https://github.com/ilkaxd/shopping_bot_payment_gateway">shopping_bot_payment_gateway</a></td>
